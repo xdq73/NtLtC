@@ -4,7 +4,7 @@ Coding has little to do with operating or programming a computer. It is more abo
 
 編碼其實和操作計算機和計算機編程關係不大。編碼更主要的是信息處理。
 
-There are no homeworks or tests in this group. It is mainly to teach you tools and help you open your mind.
+There are no homework assignments or tests in this group. It is mainly to teach you tools and help you open your mind.
 
 本群沒有作業，也不考試。主要是教大家使用工具和幫助大家開眼界。
 
