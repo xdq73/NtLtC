@@ -8,6 +8,6 @@ There are no homeworks or tests in this group. It is mainly to teach you tools a
 
 本群沒有作業，也不考試。主要是教大家使用工具和幫助大家開眼界。
 
-But if you do not do anything, you do not learn anything. You are wasting your time.
+But if you do not do anything, you do not learn anything. You are wasting your own time.
 
 但是如果你只是打醬油，什麼都學不會。浪費的是你自己的時間。
