@@ -7,3 +7,4 @@ Please add your GitHub name in following format
 - [@csgashine](https://github.com/csgashine)
 - [@VeroniqueSoleil](https://github.com/VeroniqueSoleil)
 - [@sdhaowen](https://github.com/sdhaowen)
+- [@edumaker](https://github.com/edumaker)
