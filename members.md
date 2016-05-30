@@ -13,3 +13,4 @@ Please add your GitHub name in following format
 - [@lookshow](https://github.com/lookshow)
 - [@wueil](https://github.com/wueil)
 - [@jishilimin](https://github.com/jishilimin)
+- [@sidmeier87](https://github.com/sidmeier87)
