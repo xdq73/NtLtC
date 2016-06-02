@@ -1,4 +1,4 @@
-To become a member of this group, please add your GitHub name in following format and send us a pull request.
+To become a member of this group, please append your GitHub name in following format and send us a [pull request](https://help.github.com/articles/using-pull-requests/).
 
 Thanks.
 
