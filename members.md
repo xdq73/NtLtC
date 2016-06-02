@@ -1,4 +1,4 @@
-To become a member of this group, please **append** your GitHub user name to the list below with the same [markdown format](https://guides.github.com/features/mastering-markdown/)and send us a [pull request](https://help.github.com/articles/using-pull-requests/).
+To become a member of this group, please **append** your GitHub user name to the list below with the same [markdown format](https://guides.github.com/features/mastering-markdown/) and send us a [pull request](https://help.github.com/articles/using-pull-requests/).
 
 Thanks.
 
