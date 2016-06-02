@@ -1,4 +1,6 @@
-Please add your GitHub name in following format
+To become a member of this group, please add your GitHub name in following format and send us a pull request.
+
+Thanks.
 
 - [@ontouchstart](https://github.com/ontouchstart)
 - [@wendy-chan](https://github.com/wendy-chan)
