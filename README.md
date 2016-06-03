@@ -23,3 +23,8 @@ Please only edit your own file. When you think it is ready, send me a pull reque
 Thank you.
 
 謝謝。
+
+References:
+
+- https://wikipedia.org/wiki/README
+- http://tom.preston-werner.com/2010/08/23/readme-driven-development.html ([Source](https://github.com/mojombo/mojombo.github.io/blob/master/_posts/2010-08-23-readme-driven-development.md))
