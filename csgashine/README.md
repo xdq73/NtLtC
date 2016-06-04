@@ -1,4 +1,4 @@
-# CSGASHINE
+# csgashine
 ## github
 1. What's github
 2. How to use github
